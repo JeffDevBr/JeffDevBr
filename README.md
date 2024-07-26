@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Olá! Eu sou o Jefferson, Programador Front End. Atualmente, estou aprendendo a criar projetos utilizando: HTML, CSS e JavaScript, iniciando meu aprendizado em React e Node.js.
+
+![Jeff GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffDevBr&show_icons=true&theme=transparent)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffDevBr&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **JeffDevBr/JeffDevBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
